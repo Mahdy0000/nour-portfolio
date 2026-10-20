@@ -1,0 +1,4 @@
+# local caches, regenerated on demand
+.shadercache/
+.visit-session.json
+node_modules/

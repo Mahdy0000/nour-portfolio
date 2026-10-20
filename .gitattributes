@@ -1,0 +1,24 @@
+# The mirrored site assets must stay byte-identical to the origin.
+* text=auto eol=lf
+
+*.bat text eol=crlf
+
+# binary assets
+*.wasm binary
+*.aura binary
+*.glb binary
+*.ktx2 binary
+*.mp4 binary
+*.webm binary
+*.otf binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.gif binary
+*.ico binary
+*.pdf binary
